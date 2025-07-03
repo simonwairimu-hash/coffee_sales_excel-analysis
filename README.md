@@ -61,6 +61,7 @@ Store Comparison: Side-by-side revenue of multiple locations.
 
 Interactive Filters: Date slicers, product category filters, and store selectors.
 <div ><img src="https://github.com/simonwairimu-hash/coffee_sales_excel-analysis/blob/main/Coffee%20sales.PNG"></div>
+
 ## 💡 Business Recommendations
 Boost mornings & midweek with targeted promos or upsells (e.g., combo offers before 10 AM).
 
