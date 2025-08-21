@@ -1,6 +1,8 @@
 # ☕ Coffee Sales Analysis and Dashboard
-Analyze coffee shop sales using Microsoft Excel, delivering actionable insights via Power Query, Pivot Tables, and dynamic dashboards.
-https://github.com/simonwairimu-hash/coffee_sales_excel-analysis/blob/main/Coffee%20sales.PNG
+Analysis of coffee shop sales using Microsoft Excel, delivering actionable insights via Power Query, Pivot Tables, and dynamic dashboards.
+
+<img width="889" height="446" alt="image" src="https://github.com/user-attachments/assets/8b1d0658-6cc0-4473-8c98-7b96934ee54f" />
+
 
 
 # 📊 Project Overview
